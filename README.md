@@ -12,4 +12,3 @@ This program if for teachers to calculate grades for students based on the assig
 3. Access the tool via `http://localhost/grading_tool/index.php`.
 4. Enter the grades for each student and submit.
 
-http://localhost/grading_tool/index.php
